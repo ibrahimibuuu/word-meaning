@@ -1,63 +1,115 @@
-Word,Meaning,Pronunciation,Attempts,Correct,Incorrect,Status
-herself,,,0,0,0,New
-studying,,,0,0,0,New
-break,,,0,0,0,New
-daughter,,,0,0,0,New
-vacant,,,0,0,0,New
-status,,,0,0,0,New
-in-laws,,,0,0,0,New
-academic,,,0,0,0,New
-admire,,,0,0,0,New
-demonstrate,,,0,0,0,New
-inspire,,,0,0,0,New
-corridor,,,0,0,0,New
-several,,,0,0,0,New
-apply,,,0,0,0,New
-against,,,0,0,0,New
-household,,,0,0,0,New
-bright,,,0,0,0,New
-personal,,,0,0,0,New
-whenever,,,0,0,0,New
-community,,,0,0,0,New
-narrow,,,0,0,0,New
-especially,,,0,0,0,New
-encourage,,,0,0,0,New
-social,,,0,0,0,New
-business,,,0,0,0,New
-empty,,,0,0,0,New
-pilot,,,0,0,0,New
-observation,,,0,0,0,New
-crashes,,,0,0,0,New
-whether,,,0,0,0,New
-challenging,,,0,0,0,New
-slap,,,0,0,0,New
-oasis,,,0,0,0,New
-quicksand,,,0,0,0,New
-erase,,,0,0,0,New
-engrave,,,0,0,0,New
-seriously,,,0,0,0,New
-through,,,0,0,0,New
-desert,,,0,0,0,New
-while,,,0,0,0,New
-quarrel,,,0,0,0,New
-slapped,,,0,0,0,New
-wrote,,,0,0,0,New
-decided,,,0,0,0,New
-stuck,,,0,0,0,New
-stone,,,0,0,0,New
-replied,,,0,0,0,New
-wind,,,0,0,0,New
-moral,,,0,0,0,New
-nodded,,,0,0,0,New
-smiled,,,0,0,0,New
-forever,,,0,0,0,New
-phrases,,,0,0,0,New
-remove,,,0,0,0,New
-completely,,,0,0,0,New
-hits,,,0,0,0,New
-deep,,,0,0,0,New
-forgive,,,0,0,0,New
-recall,,,1,1,0,Mastered
-exactly,,,1,1,0,Mastered
-tomorrow,,,1,1,0,Mastered
-heavy,,,1,1,0,Mastered
+Word,Meaning,Attempts,Correct,Incorrect,Status
+recall,মনে করা / স্মরণ করা,1,1,0,Mastered
+exactly,সঠিকভাবে,1,1,0,Mastered
+tomorrow,আগামীকাল,1,1,0,Mastered
+always,সর্বদা,1,1,0,Mastered
+thinking,চিন্তা করা,1,1,0,Mastered
+bath,গোসল,1,1,0,Mastered
+clothes,জামাকাপড়,1,1,0,Mastered
+started,শুরু করেছিল,1,1,0,Mastered
+statements,বক্তব্য,1,1,0,Mastered
+dressed,পোশাক পরা,1,1,0,Mastered
+precisely,নিখুঁতভাবে,1,1,0,Mastered
+composition,রচনা,1,1,0,Mastered
+before,পূর্বে,1,1,0,Mastered
+stare,একদৃষ্টিতে তাকানো,1,1,0,Mastered
+nervous,ভীত,1,1,0,Mastered
+reach,পৌঁছানো,1,1,0,Mastered
+campus,ক্যাম্পাস,1,1,0,Mastered
+each,প্রতিটি,1,1,0,Mastered
+afraid,ভীত,1,1,0,Mastered
+highly,অত্যন্ত,1,1,0,Mastered
+admitted,ভর্তি হয়েছিল,1,1,0,Mastered
+staring,একদৃষ্টিতে তাকিয়ে থাকা,1,1,0,Mastered
+experience,অভিজ্ঞতা,1,1,0,Mastered
+unknown,অজানা,1,1,0,Mastered
+innocent,নিষ্পাপ,1,1,0,Mastered
+admission,ভর্তি,1,1,0,Mastered
+stared,একদৃষ্টিতে তাকিয়ে ছিল,1,1,0,Mastered
+incident,ঘটনা,1,1,0,Mastered
+interesting,মজাদার,1,1,0,Mastered
+ruffled,বিশৃঙ্খল,1,1,0,Mastered
+insist,জোর দেওয়া,1,1,0,Mastered
+untidy,অপরিচ্ছন্ন,1,1,0,Mastered
+shocked,মর্মাহত,1,1,0,Mastered
+sorrow,দুঃখ,1,1,0,Mastered
+share,অংশ নেওয়া,1,1,0,Mastered
+lighter,হালকা,1,1,0,Mastered
+heavier,ভারী,1,1,0,Mastered
+painful,কষ্টদায়ক,1,1,0,Mastered
+insisted,জোর দিয়েছিল,1,1,0,Mastered
+leader,নেতা,1,1,0,Mastered
+dropped,ফেলে দিয়েছিল,1,1,0,Mastered
+tournament,প্রতিযোগিতা,1,1,0,Mastered
+statement,বিবৃতি,1,1,0,Mastered
+habit,অভ্যাস,1,1,0,Mastered
+headache,মাথা ব্যথা,1,1,0,Mastered
+brushed,ব্রাশ করেছিল,1,1,0,Mastered
+smooth,মসৃণ,1,1,0,Mastered
+combed,চুল আঁচড়েছিল,1,1,0,Mastered
+stopped,থেমেছিল,1,1,0,Mastered
+unwell,অসুস্থ,1,1,0,Mastered
+sick,অসুস্থ,1,1,0,Mastered
+wrong,ভুল,1,1,0,Mastered
+scolded,বকা দিয়েছিল,1,1,0,Mastered
+demanded,দাবি করেছিল,1,1,0,Mastered
+shouted,চিৎকার করেছিল,1,1,0,Mastered
+heavy,ভারী,1,1,0,Mastered
+herself,সে নিজে / নিজেকে,0,0,0,New
+studying,পড়াশোনা করা / অধ্যয়ন করা,0,0,0,New
+break,ভাঙা / বিরতি,0,0,0,New
+daughter,মেয়ে / কন্যা,0,0,0,New
+vacant,ফাঁকা / খালি,0,0,0,New
+status,সামাজিক মর্যাদা / অবস্থা,0,0,0,New
+in-laws,শ্বশুরবাড়ির আত্মীয়স্বজন,0,0,0,New
+academic,শিক্ষাসংক্রান্ত / একাডেমিক,0,0,0,New
+admire,প্রশংসা করা / শ্রদ্ধা করা,0,0,0,New
+demonstrate,প্রদর্শন করা / প্রমাণ করা,0,0,0,New
+inspire,অনুপ্রাণিত করা / উৎসাহ দেওয়া,0,0,0,New
+corridor,বারান্দা / হাঁটার পথ,0,0,0,New
+several,কয়েকটি / একাধিক,0,0,0,New
+apply,আবেদন করা / প্রয়োগ করা,0,0,0,New
+against,বিরুদ্ধে / বিপরীতে,0,0,0,New
+household,গৃহস্থালি / পরিবার,0,0,0,New
+bright,উজ্জ্বল / মেধাবী,0,0,0,New
+personal,ব্যক্তিগত,0,0,0,New
+whenever,যখনই,0,0,0,New
+community,সম্প্রদায় / সমাজ,0,0,0,New
+narrow,সংকীর্ণ / সরু,0,0,0,New
+especially,বিশেষভাবে / বিশেষ করে,0,0,0,New
+encourage,উৎসাহিত করা / সাহস দেওয়া,0,0,0,New
+social,সামাজিক,0,0,0,New
+business,ব্যবসা / বাণিজ্য,0,0,0,New
+empty,খালি / শূন্য,0,0,0,New
+pilot,বিমানচালক / পাইলট,0,0,0,New
+observation,পর্যবেক্ষণ / দেখা,0,0,0,New
+crashes,দুর্ঘটনা / ভেঙে পড়া,0,0,0,New
+whether,কিনা / যদি,0,0,0,New
+challenging,চ্যালেঞ্জিং / কৌতূহলোদ্দীপক,0,0,0,New
+slap,থাপ্পড় দেওয়া,0,0,0,New
+oasis,মরুদ্যম / মরুভূমির পানির উৎস,0,0,0,New
+quicksand,চোরাবালি,0,0,0,New
+erase,মুছে ফেলা,0,0,0,New
+engrave,খোদাই করা,0,0,0,New
+seriously,গুরুত্বের সাথে / গুরুত্ব সহকারে,0,0,0,New
+through,মধ্য দিয়ে / মাধ্যমে,0,0,0,New
+desert,মরুভূমি,0,0,0,New
+while,যখন / যে সময়,0,0,0,New
+quarrel,ঝগড়া / বিবাদ,0,0,0,New
+slapped,থাপ্পড় দিয়েছিল,0,0,0,New
+wrote,লিখেছিল,0,0,0,New
+decided,সিদ্ধান্ত নিয়েছিল,0,0,0,New
+stuck,আটকে গিয়েছিল,0,0,0,New
+stone,পাথর,0,0,0,New
+replied,উত্তর দিয়েছিল,0,0,0,New
+wind,বাতাস,0,0,0,New
+moral,নৈতিক,0,0,0,New
+nodded,মাথা নেড়ে সম্মতি জানিয়েছিল,0,0,0,New
+smiled,হেসেছিল,0,0,0,New
+forever,চিরতরে,0,0,0,New
+phrases,বাক্যাংশ,0,0,0,New
+remove,মুছে ফেলা / সরিয়ে ফেলা,0,0,0,New
+completely,সম্পূর্ণভাবে,0,0,0,New
+hits,আঘাত করে,0,0,0,New
+deep,গভীর,0,0,0,New
+forgive,ক্ষমা করা,0,0,0,New
