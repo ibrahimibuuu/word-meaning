@@ -4,7 +4,6 @@ This public repository stores the vocabulary list and the user's quiz progress.
 
 ## Files
 - `vocabulary.csv`: one row per word with Bengali meaning, Attempts, Correct, Incorrect, and Status.
-- `quiz_history.csv`: one row per answered quiz question, including the user's answer, correct answer, and result.
 
 ## Counting rules
 For every word answered in a quiz:
@@ -33,10 +32,9 @@ The 56 words already marked `Mastered` at the time this policy was adopted retai
 2. Ask the quiz and wait for the user's answers.
 3. Grade each answer against the stored Bengali meaning / intended English word.
 4. For every answered word, increment Attempts and exactly one of Correct or Incorrect.
-5. Append each question's date, quiz type, word, user answer, correct answer, and result to `quiz_history.csv`.
-6. Recalculate Status using the rules above, with the legacy exception.
-7. Save the updated CSV files to the `main` branch and verify the resulting contents and counts.
-8. Report the quiz score and the words whose counts/status changed.
+5. Recalculate Status using the rules above, with the legacy exception.
+6. Save the updated `vocabulary.csv` to the `main` branch and verify the resulting contents and counts.
+7. Report the quiz score and the words whose counts/status changed.
 
 ## Adding words
 When adding words from a picture or a supplied list, preserve each English word as written and include the pronunciation in parentheses when supplied or confirmed, plus its Bengali meaning. Avoid inventing missing meanings; ask if a word or meaning is unclear.
