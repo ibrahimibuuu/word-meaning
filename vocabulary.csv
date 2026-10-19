@@ -56,60 +56,60 @@ demanded,দাবি করেছিল,1,1,0,Mastered
 shouted,চিৎকার করেছিল,1,1,0,Mastered
 heavy,ভারী,1,1,0,Mastered
 herself,সে নিজে / নিজেকে,0,0,0,New
-studying,পড়াশোনা করা / অধ্যয়ন করা,0,0,0,New
-break,ভাঙা / বিরতি,0,0,0,New
-daughter,মেয়ে / কন্যা,0,0,0,New
+studying,পড়াশোনা করা / অধ্যয়ন করা,1,1,0,Learning
+break,ভাঙা / বিরতি,1,0,1,Learning
+daughter,মেয়ে / কন্যা,1,0,1,Learning
 vacant,ফাঁকা / খালি,0,0,0,New
 status,সামাজিক মর্যাদা / অবস্থা,0,0,0,New
-in-laws,শ্বশুরবাড়ির আত্মীয়স্বজন,0,0,0,New
-academic,শিক্ষাসংক্রান্ত / একাডেমিক,0,0,0,New
+in-laws,শ্বশুরবাড়ির আত্মীয়স্বজন,1,1,0,Learning
+academic,শিক্ষাসংক্রান্ত / একাডেমিক,1,1,0,Learning
 admire,প্রশংসা করা / শ্রদ্ধা করা,0,0,0,New
-demonstrate,প্রদর্শন করা / প্রমাণ করা,0,0,0,New
-inspire,অনুপ্রাণিত করা / উৎসাহ দেওয়া,0,0,0,New
-corridor,বারান্দা / হাঁটার পথ,0,0,0,New
+demonstrate,প্রদর্শন করা / প্রমাণ করা,1,0,1,Learning
+inspire,অনুপ্রাণিত করা / উৎসাহ দেওয়া,1,1,0,Learning
+corridor,বারান্দা / হাঁটার পথ,1,1,0,Learning
 several,কয়েকটি / একাধিক,0,0,0,New
-apply,আবেদন করা / প্রয়োগ করা,0,0,0,New
-against,বিরুদ্ধে / বিপরীতে,0,0,0,New
-household,গৃহস্থালি / পরিবার,0,0,0,New
-bright,উজ্জ্বল / মেধাবী,0,0,0,New
-personal,ব্যক্তিগত,0,0,0,New
-whenever,যখনই,0,0,0,New
+apply,আবেদন করা / প্রয়োগ করা,2,1,1,Learning
+against,বিরুদ্ধে / বিপরীতে,1,1,0,Learning
+household,গৃহস্থালি / পরিবার,1,1,0,Learning
+bright,উজ্জ্বল / মেধাবী,1,1,0,Learning
+personal,ব্যক্তিগত,1,1,0,Learning
+whenever,যখনই,1,0,1,Learning
 community,সম্প্রদায় / সমাজ,0,0,0,New
-narrow,সংকীর্ণ / সরু,0,0,0,New
-especially,বিশেষভাবে / বিশেষ করে,0,0,0,New
-encourage,উৎসাহিত করা / সাহস দেওয়া,0,0,0,New
-social,সামাজিক,0,0,0,New
-business,ব্যবসা / বাণিজ্য,0,0,0,New
+narrow,সংকীর্ণ / সরু,1,0,1,Learning
+especially,বিশেষভাবে / বিশেষ করে,2,1,1,Learning
+encourage,উৎসাহিত করা / সাহস দেওয়া,1,1,0,Learning
+social,সামাজিক,1,1,0,Learning
+business,ব্যবসা / বাণিজ্য,1,1,0,Learning
 empty,খালি / শূন্য,0,0,0,New
-pilot,বিমানচালক / পাইলট,0,0,0,New
-observation,পর্যবেক্ষণ / দেখা,0,0,0,New
+pilot,বিমানচালক / পাইলট,1,0,1,Learning
+observation,পর্যবেক্ষণ / দেখা,1,0,1,Learning
 crashes,দুর্ঘটনা / ভেঙে পড়া,0,0,0,New
 whether,কিনা / যদি,0,0,0,New
-challenging,চ্যালেঞ্জিং / কৌতূহলোদ্দীপক,0,0,0,New
+challenging,চ্যালেঞ্জিং / কৌতূহলোদ্দীপক,1,1,0,Learning
 slap,থাপ্পড় দেওয়া,0,0,0,New
-oasis,মরুদ্যম / মরুভূমির পানির উৎস,0,0,0,New
-quicksand,চোরাবালি,0,0,0,New
-erase,মুছে ফেলা,0,0,0,New
-engrave,খোদাই করা,0,0,0,New
-seriously,গুরুত্বের সাথে / গুরুত্ব সহকারে,0,0,0,New
+oasis,মরুদ্যম / মরুভূমির পানির উৎস,1,0,1,Learning
+quicksand,চোরাবালি,1,1,0,Learning
+erase,মুছে ফেলা,1,1,0,Learning
+engrave,খোদাই করা,1,1,0,Learning
+seriously,গুরুত্বের সাথে / গুরুত্ব সহকারে,1,1,0,Learning
 through,মধ্য দিয়ে / মাধ্যমে,0,0,0,New
-desert,মরুভূমি,0,0,0,New
-while,যখন / যে সময়,0,0,0,New
-quarrel,ঝগড়া / বিবাদ,0,0,0,New
-slapped,থাপ্পড় দিয়েছিল,0,0,0,New
-wrote,লিখেছিল,0,0,0,New
-decided,সিদ্ধান্ত নিয়েছিল,0,0,0,New
-stuck,আটকে গিয়েছিল,0,0,0,New
-stone,পাথর,0,0,0,New
-replied,উত্তর দিয়েছিল,0,0,0,New
-wind,বাতাস,0,0,0,New
-moral,নৈতিক,0,0,0,New
-nodded,মাথা নেড়ে সম্মতি জানিয়েছিল,0,0,0,New
-smiled,হেসেছিল,0,0,0,New
-forever,চিরতরে,0,0,0,New
-phrases,বাক্যাংশ,0,0,0,New
-remove,মুছে ফেলা / সরিয়ে ফেলা,0,0,0,New
+desert,মরুভূমি,2,1,1,Learning
+while,যখন / যে সময়,1,1,0,Learning
+quarrel,ঝগড়া / বিবাদ,1,1,0,Learning
+slapped,থাপ্পড় দিয়েছিল,1,1,0,Learning
+wrote,লিখেছিল,1,1,0,Learning
+decided,সিদ্ধান্ত নিয়েছিল,1,1,0,Learning
+stuck,আটকে গিয়েছিল,1,1,0,Learning
+stone,পাথর,1,1,0,Learning
+replied,উত্তর দিয়েছিল,1,1,0,Learning
+wind,বাতাস,1,0,1,Learning
+moral,নৈতিক,1,1,0,Learning
+nodded,মাথা নেড়ে সম্মতি জানিয়েছিল,2,1,1,Learning
+smiled,হেসেছিল,1,1,0,Learning
+forever,চিরতরে,1,0,1,Learning
+phrases,বাক্যাংশ,1,1,0,Learning
+remove,মুছে ফেলা / সরিয়ে ফেলা,1,1,0,Learning
 completely,সম্পূর্ণভাবে,0,0,0,New
 hits,আঘাত করে,0,0,0,New
-deep,গভীর,0,0,0,New
-forgive,ক্ষমা করা,0,0,0,New
+deep,গভীর,1,1,0,Learning
+forgive,ক্ষমা করা,2,2,0,Learning
