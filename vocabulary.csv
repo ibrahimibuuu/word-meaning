@@ -56,43 +56,43 @@ demanded,দাবি করেছিল,1,1,0,Mastered
 shouted,চিৎকার করেছিল,1,1,0,Mastered
 heavy,ভারী,1,1,0,Mastered
 herself,সে নিজে / নিজেকে,0,0,0,New
-studying,পড়াশোনা করা / অধ্যয়ন করা,1,1,0,Learning
-break,ভাঙা / বিরতি,1,0,1,Learning
-daughter,মেয়ে / কন্যা,1,0,1,Learning
-vacant,ফাঁকা / খালি,0,0,0,New
-status,সামাজিক মর্যাদা / অবস্থা,0,0,0,New
+studying,পড়াশোনা করা / অধ্যয়ন করা,2,2,0,Learning
+break,ভাঙা / বিরতি,2,1,1,Learning
+daughter,মেয়ে / কন্যা,2,1,1,Learning
+vacant,ফাঁকা / খালি,1,1,0,Learning
+status,সামাজিক মর্যাদা / অবস্থা,1,0,1,Learning
 in-laws,শ্বশুরবাড়ির আত্মীয়স্বজন,1,1,0,Learning
 academic,শিক্ষাসংক্রান্ত / একাডেমিক,1,1,0,Learning
-admire,প্রশংসা করা / শ্রদ্ধা করা,0,0,0,New
-demonstrate,প্রদর্শন করা / প্রমাণ করা,1,0,1,Learning
+admire,প্রশংসা করা / শ্রদ্ধা করা,1,1,0,Learning
+demonstrate,প্রদর্শন করা / প্রমাণ করা,2,1,1,Learning
 inspire,অনুপ্রাণিত করা / উৎসাহ দেওয়া,1,1,0,Learning
 corridor,বারান্দা / হাঁটার পথ,1,1,0,Learning
-several,কয়েকটি / একাধিক,0,0,0,New
+several,কয়েকটি / একাধিক,1,1,0,Learning
 apply,আবেদন করা / প্রয়োগ করা,2,1,1,Learning
 against,বিরুদ্ধে / বিপরীতে,1,1,0,Learning
 household,গৃহস্থালি / পরিবার,1,1,0,Learning
 bright,উজ্জ্বল / মেধাবী,1,1,0,Learning
 personal,ব্যক্তিগত,1,1,0,Learning
-whenever,যখনই,1,0,1,Learning
-community,সম্প্রদায় / সমাজ,0,0,0,New
-narrow,সংকীর্ণ / সরু,1,0,1,Learning
+whenever,যখনই,2,1,1,Learning
+community,সম্প্রদায় / সমাজ,1,1,0,Learning
+narrow,সংকীর্ণ / সরু,2,0,2,Learning
 especially,বিশেষভাবে / বিশেষ করে,2,1,1,Learning
 encourage,উৎসাহিত করা / সাহস দেওয়া,1,1,0,Learning
 social,সামাজিক,1,1,0,Learning
 business,ব্যবসা / বাণিজ্য,1,1,0,Learning
-empty,খালি / শূন্য,0,0,0,New
+empty,খালি / শূন্য,1,1,0,Learning
 pilot,বিমানচালক / পাইলট,1,0,1,Learning
-observation,পর্যবেক্ষণ / দেখা,1,0,1,Learning
-crashes,দুর্ঘটনা / ভেঙে পড়া,0,0,0,New
-whether,কিনা / যদি,0,0,0,New
+observation,পর্যবেক্ষণ / দেখা,2,1,1,Learning
+crashes,দুর্ঘটনা / ভেঙে পড়া,1,0,1,Learning
+whether,কিনা / যদি,1,1,0,Learning
 challenging,চ্যালেঞ্জিং / কৌতূহলোদ্দীপক,1,1,0,Learning
-slap,থাপ্পড় দেওয়া,0,0,0,New
+slap,থাপ্পড় দেওয়া,1,1,0,Learning
 oasis,মরুদ্যম / মরুভূমির পানির উৎস,1,0,1,Learning
 quicksand,চোরাবালি,1,1,0,Learning
 erase,মুছে ফেলা,1,1,0,Learning
 engrave,খোদাই করা,1,1,0,Learning
 seriously,গুরুত্বের সাথে / গুরুত্ব সহকারে,1,1,0,Learning
-through,মধ্য দিয়ে / মাধ্যমে,0,0,0,New
+through,মধ্য দিয়ে / মাধ্যমে,1,1,0,Learning
 desert,মরুভূমি,2,1,1,Learning
 while,যখন / যে সময়,1,1,0,Learning
 quarrel,ঝগড়া / বিবাদ,1,1,0,Learning
@@ -106,10 +106,10 @@ wind,বাতাস,1,0,1,Learning
 moral,নৈতিক,1,1,0,Learning
 nodded,মাথা নেড়ে সম্মতি জানিয়েছিল,2,1,1,Learning
 smiled,হেসেছিল,1,1,0,Learning
-forever,চিরতরে,1,0,1,Learning
+forever,চিরতরে,2,1,1,Learning
 phrases,বাক্যাংশ,1,1,0,Learning
 remove,মুছে ফেলা / সরিয়ে ফেলা,1,1,0,Learning
-completely,সম্পূর্ণভাবে,0,0,0,New
-hits,আঘাত করে,0,0,0,New
+completely,সম্পূর্ণভাবে,1,1,0,Learning
+hits,আঘাত করে,1,1,0,Learning
 deep,গভীর,1,1,0,Learning
 forgive,ক্ষমা করা,2,2,0,Learning
