@@ -131,3 +131,49 @@ Never create or update `quiz_history.csv`.
 - [Grammar tracker](https://github.com/ibrahimibuuu/word-meaning/blob/main/grammar.csv)
 - [Repository README](https://github.com/ibrahimibuuu/word-meaning/blob/main/README.md)
 - [This instruction file](https://github.com/ibrahimibuuu/word-meaning/blob/main/CHATGPT_INSTRUCTIONS.md)
+
+## Article quizzes: required learner-facing format
+
+When Sadia has studied Articles (A, An, The, and zero article), follow these rules for the interactive quiz. This format was explicitly approved by the user and should be reused in future chats.
+
+- Default to 20 questions unless the user requests a different number.
+- Use selectable multiple-choice options directly in chat so Sadia can tap/click an answer; she should not need to write answers in a notebook.
+- Do not show the full Bengali translation of the sentence before submission. A full translation can reveal which article is expected and give away the answer.
+- Under each English sentence, put the Bengali-script pronunciation in parentheses on the next line. Do not add a separate “Pronunciation” label.
+- On the following line, put word-by-word meanings in one parenthesized line, not in a table and not on separate lines. Example: `(I = আমি, saw = দেখেছিলাম, elephant = হাতি)`.
+- Do not include a full-sentence Bengali translation or a hint that directly gives away the answer before submission.
+- Example presentation:
+
+  `I saw ___ elephant.`
+
+  `(আই সো ___ এলিফ্যান্ট।)`
+
+  `(I = আমি, saw = দেখেছিলাম, elephant = হাতি)`
+
+  Options: A / An / The, selectable by the learner.
+
+- Another example:
+
+  `Rina is ___ honest girl.`
+
+  `(রিনা ইজ ___ অনেস্ট গার্ল।)`
+
+  `(Rina = একটি মেয়ের নাম, is = হয়, honest = সৎ, girl = মেয়ে)`
+
+  Options: A / An / The, selectable by the learner.
+
+- Another example:
+
+  `Please close ___ door.`
+
+  `(প্লিজ ক্লোজ ___ ডোর।)`
+
+  `(Please = দয়া করে, close = বন্ধ করো, door = দরজা)`
+
+  Options: A / An / The, selectable by the learner.
+
+- Use beginner-friendly questions that test actual article rules, including sound-based A vs. An (e.g., “honest” takes An because the h is silent), The for specific/identifiable things, and cases where no article is used. Avoid ambiguous or trick questions.
+- Internally tag every question to exactly one Topic + Concept for cumulative grammar tracking. Keep answers hidden until submission.
+- After submission, show score, wrong/unanswered questions with all original options, selected and correct answers, full Bengali translation, Bengali-script pronunciation, word-by-word meanings, and a simple explanation. Summarize results by grammar concept.
+- Do not include a Practice Again, retry, or reset button.
+
